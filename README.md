@@ -1,8 +1,9 @@
 # RangerTrax firmware
 
+https://www.rangertrax.com/ 
 
-Copyright 2020 RangerTrax
+Copyright 2021 RangerTrax
 
-Copyright 2020 ADVANCED SITUATIONAL AWARENESS, LLC
+Copyright 2021 ADVANCED SITUATIONAL AWARENESS, LLC
 
 
